@@ -44,7 +44,7 @@ there is a error URLs list like `grailsDiary.txt.error` file.
 So please retry,
 
 
-.Execution Example
+.Retry Example with errors
 ====
 ----
 $ groovy pdfdl.groovy sample/grailsDiary.txt.error grailsDiary
