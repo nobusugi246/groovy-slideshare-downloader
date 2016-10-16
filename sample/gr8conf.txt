@@ -1,0 +1,14 @@
+http://www.slideshare.net/gr8conf/groovy-powered-clean-code
+http://www.slideshare.net/gr8conf/how-to-create-a-conference-android-app-with-groovy-and-android
+http://www.slideshare.net/gr8conf/metaprogramming-with-groovy-63036986
+http://www.slideshare.net/gr8conf/mum-i-want-to-be-a-groovy-fullstack-developer
+http://www.slideshare.net/gr8conf/ratpack-on-the-docks
+http://www.slideshare.net/gr8conf/scraping-with-geb
+http://www.slideshare.net/gr8conf/spring-4groovy-22398093
+http://www.slideshare.net/gr8conf/vertx-introduction
+http://www.slideshare.net/ilopmar/greach-2016-dockerize-your-grails
+http://www.slideshare.net/ilopmar/javacro-2016-from-java-to-groovy-adventure-time
+http://www.slideshare.net/ilopmar/javacro-2016-testing-with-spock-the-logical-choice
+http://www.slideshare.net/ilopmar/jdays-2015-grails-and-the-realtime-world
+http://www.slideshare.net/ilopmar/rigadevday-2016-testing-with-spock-the-logical-choice
+http://www.slideshare.net/ilopmar/springone-2gx-2015-grails-and-the-realtime-world

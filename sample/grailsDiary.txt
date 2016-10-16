@@ -1,0 +1,9 @@
+http://www.slideshare.net/aalmiray/making-the-most-of-your-gradle-build
+http://www.slideshare.net/aalmiray/java-libraries-you-cant-afford-to-miss-66244982
+http://www.slideshare.net/aestasit/ninja-tricks-for-groovy-system-scripting
+http://www.slideshare.net/aestasit/ratpack-the-core-for-your-microservices-for-jdkio-2016
+http://www.slideshare.net/alvarosanchezmariscal/mastering-grails-3-plugins-gr8conf-us-2016
+http://www.slideshare.net/alvarosanchezmariscal/creating-applications-with-grails-angular-js-and-spring-security-gr8conf-us-2016
+http://www.slideshare.net/StevePember/reactive-streams-and-the-wide-world-of-groovy-64526341
+http://www.slideshare.net/StevePember/an-introduction-to-jooq
+http://www.slideshare.net/danveloper/groovy-in-the-cloud-64312473
