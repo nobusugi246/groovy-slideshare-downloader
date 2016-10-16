@@ -41,7 +41,7 @@ sample/grailsDiary.txt ========== ========== ========== ========== ==========
 Then `grailsDiary` folder has 9 pdf files.
 
 If there are any errors like 503,
-there is a error URLs list like `grailsDiary.txt.error` file.
+there is a error URLs list file like `grailsDiary.txt.error`.
 So please retry,
 
 
