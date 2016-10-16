@@ -12,6 +12,7 @@ a groovy script which downloads pdfs from slideshare with crazyworks.jp/slidesha
 $ groovy pdfdl.groovy <URLs list file> <folder> [<proxy host> <proxy port>]
 ----
 URLs list file:: a file which contains URLs list.
+Please refer sample files at `sample` folder.
 folder:: a folder which stores downloaded pdf files.
 proxy host:: host name of proxy
 proxy port:: port number of proxy
@@ -72,5 +73,5 @@ Apache License Version 2.0
 
 == ChangLog / 変更履歴
 
-* rev.00, Initial release : 2016-10-16
+* rev.00, Initial release. : 2016-10-16
 
