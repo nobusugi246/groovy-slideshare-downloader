@@ -1,0 +1,76 @@
+= groovy slideshare downloader
+:example-caption: List
+
+a groovy script which downloads pdfs from slideshare with crazyworks.jp/slideshare_downloder .
+
+
+== How to run / 実行方法
+
+.How to run this groovy script
+====
+----
+$ groovy pdfdl.groovy <URLs list file> <folder> [<proxy host> <proxy port>]
+----
+URLs list file:: a file which contains URLs list.
+folder:: a folder which stores downloaded pdf files.
+proxy host:: host name of proxy
+proxy port:: port number of proxy
+====
+
+
+For example,
+
+.Execution Example
+====
+----
+$ groovy pdfdl.groovy sample/grailsDiary.txt grailsDiary
+sample/grailsDiary.txt ========== ========== ========== ========== ==========
+1/9: making-the-most-of-your-gradle-build ... done
+2/9: java-libraries-you-cant-afford-to-miss-66244982 ... done
+3/9: ninja-tricks-for-groovy-system-scripting ... done
+4/9: ratpack-the-core-for-your-microservices-for-jdkio-2016 ... done
+5/9: mastering-grails-3-plugins-gr8conf-us-2016 ... done
+6/9: creating-applications-with-grails-angular-js-and-spring-security-gr8conf-us-2016 ... done
+7/9: reactive-streams-and-the-wide-world-of-groovy-64526341 ... done
+8/9: an-introduction-to-jooq ... done
+9/9: groovy-in-the-cloud-64312473 ... done
+----
+====
+
+Then `grailsDiary` folder has 9 pdf files.
+
+If there are any errors like 503,
+there is a error URLs list like `grailsDiary.txt.error` file.
+So please retry,
+
+
+.Execution Example
+====
+----
+$ groovy pdfdl.groovy sample/grailsDiary.txt.error grailsDiary
+----
+====
+
+
+== License / ライセンス
+
+Apache License Version 2.0
+
+
+== Acknowledgements / 謝辞
+
+* Apache Groovy
+** http://www.groovy-lang.org/
+
+* jsoup: Java HTML Parser
+** https://jsoup.org/
+** https://github.com/jhy/jsoup/
+
+* slideshare downloder by crazyworks.jp.
+** http://crazyworks.jp/slideshare_downloder
+
+
+== ChangLog / 変更履歴
+
+* rev.00, Initial release : 2016-10-16
+
