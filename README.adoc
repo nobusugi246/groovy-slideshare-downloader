@@ -21,7 +21,7 @@ proxy port:: port number of proxy. this is optional.
 
 For example,
 
-.Execution Example
+.Execution example
 ====
 ----
 $ groovy pdfdl.groovy sample/grailsDiary.txt grailsDiary
@@ -45,7 +45,7 @@ there is a error URLs list file like `grailsDiary.txt.error`.
 So please retry,
 
 
-.Retry Example with errors
+.Retry example with errors
 ====
 ----
 $ groovy pdfdl.groovy sample/grailsDiary.txt.error grailsDiary
@@ -73,5 +73,5 @@ Apache License Version 2.0
 
 == ChangLog / 変更履歴
 
-* rev.00, Initial release. : 2016-10-16
+* rev_00, Initial release. : 2016-10-16
 
