@@ -31,7 +31,7 @@ new File(targetFile).eachLine { url ->
 
     def conn = Jsoup.connect("${cwjp}?url=${url}").timeout(600000)
     if( proxyPort && proxyPort ){
-      conn.proxy(proxyHost as String, proxyPort as int)
+      conn = conn.proxy(proxyHost as String, proxyPort as int)
     }
     doc = conn.get()
     def pdf = doc.select('a')[2].attr('href') as String
@@ -45,6 +45,6 @@ new File(targetFile).eachLine { url ->
     } catch (f) {
     }
 
-    new File("${targetFile}.error").append "${url}¥n"
+    new File("${targetFile}.error").append "${url}${System.lineSeparator()}"
   }
 }
