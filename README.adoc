@@ -1,7 +1,7 @@
 = groovy slideshare downloader
 :example-caption: List
 
-a groovy script which downloads pdf filess from slideshare with crazyworks.jp/slideshare_downloder .
+a groovy script which downloads pdf files from slideshare with crazyworks.jp/slideshare_downloder .
 
 
 == How to run / 実行方法
@@ -9,13 +9,28 @@ a groovy script which downloads pdf filess from slideshare with crazyworks.jp/sl
 .How to run this groovy script
 ====
 ----
-$ groovy pdfdl.groovy <URLs list file> <folder> [<proxy host> <proxy port>]
+$ groovy pdfdl.groovy <URLs list file> <folder>
 ----
 URLs list file:: a file which contains URLs list.
 Please refer sample files at `sample` folder.
 folder:: a folder which stores downloaded pdf files.
-proxy host:: host name of proxy. this is optional.
-proxy port:: port number of proxy. this is optional.
+====
+
+
+If you are behind Proxy, please set JAVA_OPTS as following,
+
+.Proxy configuration for Linux
+====
+----
+export JAVA_OPTS="-DproxyHost=proxy.example.com -DproxyPort=8080"
+----
+====
+
+.Proxy configuration for Windows
+====
+----
+set JAVA_OPTS=-DproxyHost=proxy.example.com -DproxyPort=8080
+----
 ====
 
 

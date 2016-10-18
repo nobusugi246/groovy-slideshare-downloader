@@ -86,6 +86,8 @@ http://www.slideshare.net/SpringCentral/modern-java-component-design-with-spring
 http://www.slideshare.net/TakuyaIwatsuka/spring-io-2016-test-cloud-other-popular-sessions
 http://www.slideshare.net/TakuyaIwatsuka/spring-social-59345309
 http://www.slideshare.net/TakuyaIwatsuka/springone-2016-reactive-api
+http://www.slideshare.net/TakuyaIwatsuka/spring-io-2016-test-cloud-other-popular-sessions
+http://www.slideshare.net/TakuyaIwatsuka/spring-io2015
 http://www.slideshare.net/hitting1024/spring-security-41
 http://www.slideshare.net/kimulla/spring-framework-43
 http://www.slideshare.net/makingx/consumer-driven-contracts-rest-api-m3tech
@@ -100,3 +102,8 @@ http://www.slideshare.net/yukung/jooq-flyway-jjugccc-cccab1
 http://www.slideshare.net/yukung/jsug-springone-platform-2016-case-study-1
 http://www.slideshare.net/yukung/report-to-spring-developer-from-cyberagent
 http://www.slideshare.net/robwinch/state-ofsecuringrestfulapiss12gx2015
+http://www.slideshare.net/ArisaSasaki/spring-io-2016-spring-5
+http://www.slideshare.net/movmov/20160622-jsug-fromspringframework43to50
+http://www.slideshare.net/ToniJara/spring-io-2016-spring-cloud-microservices-a-journey-inside-a-financial-entity-62292481
+http://www.slideshare.net/BenWilcock1/microservices-java-ee-vs-spring-boot-and-spring-cloud
+http://www.slideshare.net/BenWilcock1/spring-integration-with-the-java-dsl

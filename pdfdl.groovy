@@ -6,14 +6,6 @@ final cwjp = 'http://crazyworks.jp/slideshare_downloder/'
 final targetFile = args[0]
 final targetFolder = args[1]
 
-final proxyHost
-final proxyPort
-try {
-  proxyHost = args[2]
-  proxyPort = args[3]
-} catch (e) {
-}
-  
 new File(targetFolder).mkdirs()
 
 def doc
@@ -29,14 +21,15 @@ new File(targetFile).eachLine { url ->
     def name = url.split('/')[-1]
     print "${index++}/${filesNum}: ${name} ... "
 
-    def conn = Jsoup.connect("${cwjp}?url=${url}").timeout(600000)
-    if( proxyPort && proxyPort ){
-      conn = conn.proxy(proxyHost as String, proxyPort as int)
-    }
-    doc = conn.get()
+    doc = Jsoup.connect("${cwjp}?url=${url}").timeout(600000).get()
     def pdf = doc.select('a')[2].attr('href') as String
 
-    new File("${targetFolder}/${name}.pdf") << new URL("${cwjp}${pdf}").bytes
+    def ext = 2
+    def pdfFileName = "${targetFolder}/${name}.pdf"
+    while( new File(pdfFileName).exists() ){
+      pdfFileName = "${targetFolder}/${name}_${ext++}.pdf"
+    }
+    new File(pdfFileName) << new URL("${cwjp}${pdf}").bytes
     println 'done'
   } catch (e) {
     println e
