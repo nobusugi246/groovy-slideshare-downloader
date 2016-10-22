@@ -12,3 +12,5 @@ http://www.slideshare.net/ilopmar/javacro-2016-testing-with-spock-the-logical-ch
 http://www.slideshare.net/ilopmar/jdays-2015-grails-and-the-realtime-world
 http://www.slideshare.net/ilopmar/rigadevday-2016-testing-with-spock-the-logical-choice
 http://www.slideshare.net/ilopmar/springone-2gx-2015-grails-and-the-realtime-world
+http://www.slideshare.net/sascha_klein/using-groovy-with-jenkins
+http://www.slideshare.net/sascha_klein/introduction-to-graphics-and-uidesign
