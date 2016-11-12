@@ -1,3 +1,4 @@
+http://www.slideshare.net/gr8conf/creating-and-testing-rest-contracts-with-accurest-gradle
 http://www.slideshare.net/gr8conf/groovy-powered-clean-code
 http://www.slideshare.net/gr8conf/how-to-create-a-conference-android-app-with-groovy-and-android
 http://www.slideshare.net/gr8conf/metaprogramming-with-groovy-63036986
