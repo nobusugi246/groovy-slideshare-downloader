@@ -88,5 +88,7 @@ Apache License Version 2.0
 
 == ChangLog / 変更履歴
 
+* rev_01, Fix proxy configuration, update sample URLs list files. : 2016-11-12
+
 * rev_00, Initial release. : 2016-10-16
 
