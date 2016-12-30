@@ -1,3 +1,6 @@
+http://www.slideshare.net/Pivotal/data-science-for-connected-vehicles-70353988
+http://www.slideshare.net/Pivotal/troubleshooting-app-health-and-performance-with-pcf-metrics-12
+http://www.slideshare.net/Pivotal/using-pivotal-cloud-foundry-with-googles-bigquery-and-cloud-vision-api
 http://www.slideshare.net/Pivotal/t4-live-demo-pivotal-cloud-foundry
 http://www.slideshare.net/Pivotal/t3-pivotal-cloud-foundry-a-technical-overview
 http://www.slideshare.net/Pivotal/t2-live-demo-big-data-suite

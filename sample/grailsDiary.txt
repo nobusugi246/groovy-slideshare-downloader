@@ -1,3 +1,10 @@
+http://www.slideshare.net/ilopmar/g3-summit-2016-dockerize-your-grails
+http://www.slideshare.net/ilopmar/g3-summit-2016-taking-advantage-of-groovy-annotations
+http://www.slideshare.net/alvarosanchezmariscal/creating-applications-with-grails-angular-js-and-spring-security-g3-summit-2016
+http://www.slideshare.net/paulk_asert/awesome-groovy
+http://www.slideshare.net/paulk_asert/groovy-databases
+http://www.slideshare.net/paulk_asert/make-tests-groovy
+http://www.slideshare.net/hendersk/groovy-ast-transformations
 http://www.slideshare.net/restlet/take-a-groovy-rest-55361056
 http://www.slideshare.net/aalmiray/making-the-most-of-your-gradle-build
 http://www.slideshare.net/aalmiray/java-libraries-you-cant-afford-to-miss-66244982
