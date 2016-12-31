@@ -1,0 +1,12 @@
+http://www.slideshare.net/yoshinorinie/cloud-foundry-x-wagby
+http://www.slideshare.net/tokuhirom/linespring-framework
+http://www.slideshare.net/HasegawaDanna1/application-rearchitecture-technology-strutsspring-mvc
+http://www.slideshare.net/bikisuke/grails-69293672
+http://www.slideshare.net/makingx/data-microservices-with-spring-cloud-stream-task-and-data-flow-jsug-springday
+http://www.slideshare.net/daisuke_m/spring-day-2016-web-api
+http://www.slideshare.net/TakuyaIwatsuka/spring-5
+http://www.slideshare.net/rakutentech/springspring-day-2016
+http://www.slideshare.net/nin2hanzo/spring-69237035
+http://www.slideshare.net/terahide/spring-bootweb-69236132
+http://www.slideshare.net/HasegawaDanna1/spring-day-2016-spring
+http://www.slideshare.net/KouheiToki/springweb-69254349
